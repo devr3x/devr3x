@@ -67,8 +67,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/devr3x/devr3x/output/snake.svg" alt="Snake animation" />
-
-###
